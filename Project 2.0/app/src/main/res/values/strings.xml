@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="btn_next">Next</string>
+    <string name="header">BMI Analyzer</string>
+    <string name="hi_message">Welcome Back</string>
+    <string name="Guidance_message">if you already have an account, log in</string>
+</resources>
